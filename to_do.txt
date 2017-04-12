@@ -1,0 +1,2 @@
+-baner zamiast tytu³u
+-menu z³o¿one z ma³ych zdjêæ zamiast z linków
