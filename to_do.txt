@@ -1,4 +1,4 @@
--baner zamiast tytu³u -done
 -menu z³o¿one z ma³ych zdjêæ zamiast z linków
 -podstrony
 -zdjêcia na podstronach
+-rezponsywnosæ na ca³ej stronie
