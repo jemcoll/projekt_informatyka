@@ -1,6 +1,4 @@
 -menu z³o¿one z ma³ych zdjêæ zamiast z linków
--alpinizm
--upamiêtnienie
 -zdjêcia na podstronach
 -rezponsywnosæ na opinie
 -rezponsywnosæ na alpinizm
