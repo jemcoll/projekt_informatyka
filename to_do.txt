@@ -1,6 +1,0 @@
--menu z³o¿one z ma³ych zdjêæ zamiast z linków
--zdjêcia na podstronach
--rezponsywnosæ na opinie
--rezponsywnosæ na alpinizm
--rezponsywnosæ na upamiêtnienie
--dodaæ Ÿród³a
